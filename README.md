@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OnatArslan
-- 👀 I’m interested in backend development with express.js and typescript.
-- 🌱 I’m currently learning spring boot and hibarnate ORM
-
+- 👀 I’m interested in backend web development with express.js and typescript/javascript.
+- 🌱 I’m currently learning react and nextjs
 - 💞️ I’m looking to collaborate on all kind of open source projects
 - 📫 How to reach me onatarslan133@gmail.com
 
