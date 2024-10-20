@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OnatArslan
 - 👀 I’m interested in backend web development with node/express.js and java/spring.
-- 🌱 I’m currently learning React and tailwind for fullstack purpose.
+- 🌱 I’m currently learning microservices and REST api's design patterns.
 - 🌲 I have deep understanding on REST API's and server security.
 - 💞️ I’m looking to collaborate on all kind of open source projects.
 - 📫 How to reach me onatarslan133@gmail.com OR onatarslan@posta.mu.edu.tr.
