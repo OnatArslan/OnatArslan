@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @OnatArslan
-- 👀 I’m interested in backend web development with node/express.js and java/spring.
-- 🌱 I’m currently learning microservices and REST api's design patterns.
+- 👀 I’m interested in backend web development with java/spring.
+- 🌱 I’m currently learning microservices with spring cloud
+- 🌲 I have deep understanding on Java, OOP and Design Patterns
 - 🌲 I have deep understanding on REST API's and server security.
-- 💞️ I’m looking to collaborate on all kind of open source projects.
-- 📫 How to reach me onatarslan133@gmail.com OR onatarslan@posta.mu.edu.tr.
+- 💞️ I’m looking to collaborate on all kind of open source projects(no need to be server-side programming).
+- 📫 How to reach me onatarslan133@gmail.com(casual) OR onatarslan@posta.mu.edu.tr(school).
 
 
 <!---
