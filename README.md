@@ -1,35 +1,77 @@
-# Hey there! 👋 I'm a Backend Developer who knows how to keep it clean & scalable.
+# 👋 Hey, I'm Onat – I architect and build scalable backend systems.
 
-## 🚀 About Me
+## 🧠 About Me
 
-I'm currently working at [Wehkamp.nl](https://www.wehkamp.nl/) as a Backend Developer, building robust systems using **TypeScript**, **JavaScript**, and **Node.js**.
+I’m a Backend Developer currently working at [Wehkamp.nl](https://www.wehkamp.nl/), where I design and build scalable, maintainable systems using both **Node.js** and **Java/Spring** stacks.
 
-While backend is my home turf — API design, architecture decisions, and performance tuning — I also enjoy crafting clean UIs with **React** when needed.
+My daily work revolves around:
+- Clean API design and domain-driven backend architecture
+- Query optimization, database design, and performance tuning
+- Server-side security, authentication, and production readiness
 
-I care about:
-- Writing readable, maintainable code
-- Building systems that scale without drama
-- Keeping things simple but powerful
+Although I specialize in backend systems, I also build **well-structured frontends** using **React** — when architectural consistency and end-to-end ownership are needed.
 
-## 🛠 Tech Stack
+---
 
-**Backend:**  
-Node.js • Express • TypeScript • JavaScript • REST • Microservices
+## ⚙️ Tech Stack
 
-**Frontend:**  
-React • Redux • Tailwind (when needed)  
+### 🔩 Backend
+- **Node.js**, **Express.js**, **TypeScript**, **JavaScript (ES6+)**
+- **Java**, **Spring Boot**, **Spring Data JPA**, **REST**, **MVC**, **Clean Architecture**
+- **PostgreSQL**, **SQL Performance Optimization**, **Prisma**, **JPA/Hibernate**
+- **Authentication**, **Authorization**, **RBAC**, **JWT**, **OAuth2**
+- **Caching** (Redis), **Rate Limiting**, **Security Headers**, **Input Validation**
 
-**DevOps / Tools:**  
-Docker • Git • GitHub Actions • PostgreSQL • Redis
+### 🧱 Architecture
+- Domain-Driven Design (DDD)
+- Layered + Hexagonal Architecture
+- API-First Development
+- Async Messaging (Event-Based Design – Kafka/RabbitMQ knowledge)
+- CI/CD Workflows (GitHub Actions)
+
+### 🐳 DevOps & Tools
+- **Docker**, **Docker Compose**, **Git**, **GitHub Actions**
+- **Linux CLI**, **PM2**, **Nodemon**, **Postman**, **Insomnia**
+
+### 🧑‍💻 Frontend
+- **React**, **Redux Toolkit**, **React Query**, **Tailwind CSS** (used only when needed)
+- Focused on component design, state management, and frontend/backend integration
+
+---
 
 ## 📌 Current Focus
 
-- Scaling Node.js apps at production level  
-- Clean architecture and design patterns  
-- Improving frontend fluency with React  
-- Becoming the dev people ask for when shit hits the fan
+- Scaling backend systems (Java + Node) under production load
+- Mastering clean architecture and design patterns
+- Writing testable and decoupled code
+- Strengthening React skills without compromising backend focus
+- Building side projects and documenting everything
+
+---
+
+## ✨ Current Side Project
+
+> Currently building a **Reddit-style project** with custom backend architecture, token-based auth, and a scalable API-first design using Node.js, TypeScript, PostgreSQL, and React.
+
+---
+
+## 📚 Backend Books I'm Studying
+
+Reading through a curated list of 21 backend books covering:
+- REST API design
+- Clean code and refactoring
+- System design and microservices
+- DevOps, Docker, and scalable infrastructure  
+(Ask me for the list if you're curious — it's gold.)
+
+---
 
 ## 🤝 Let's Connect
 
-- onatwhkmp@gmail.com
-- onatarslan13@gmail.com (please reach me on here)
+- 📩 **onatarslan13@gmail.com** (primary)
+- 📭 onatwhkmp@gmail.com
+
+---
+
+> "I don’t just write code. I build backend systems you won’t need to rewrite in six months."
+
