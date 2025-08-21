@@ -51,7 +51,7 @@ Although I specialize in backend systems, I also build **well-structured fronten
 
 ## ✨ Current Side Project
 
-> Currently building a **Reddit-style project** with custom backend architecture, token-based auth, and a scalable API-first design using Node.js, TypeScript, PostgreSQL, and React.
+> Currently building a **Upwork-style project(DevMatch)** with custom backend architecture, token-based auth, and a scalable API-first design using Node.js, TypeScript, PostgreSQL, and React.
 
 ---
 
