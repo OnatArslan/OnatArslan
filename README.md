@@ -2,7 +2,7 @@
 
 ## 🧠 About Me
 
-I’m a Backend Developer currently working at [Wehkamp.nl](https://www.wehkamp.nl/), where I design and build scalable, maintainable systems using both **Node.js** and **Java/Spring** stacks.
+I’m a Backend Developer currently working at [Zalando.de](https://www.zalando.de/), where I design and build scalable, maintainable systems using both **Node.js** and **Java/Spring** stacks.
 
 My daily work revolves around:
 - Clean API design and domain-driven backend architecture
