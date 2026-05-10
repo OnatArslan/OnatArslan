@@ -1,77 +1,128 @@
-# 👋 Hey, I'm Onat – I architect and build scalable backend systems.
+# Hi, I'm Onat Arslan
 
-## 🧠 About Me
+Backend-focused Software Developer building maintainable, production-minded systems with a strong emphasis on API design, database modeling, system reliability, and clean architecture.
 
-I’m a Backend Developer currently working at [Zalando.de](https://www.zalando.de/), where I design and build scalable, maintainable systems using both **Node.js** and **Java/Spring** stacks.
-
-My daily work revolves around:
-- Clean API design and domain-driven backend architecture
-- Query optimization, database design, and performance tuning
-- Server-side security, authentication, and production readiness
-
-Although I specialize in backend systems, I also build **well-structured frontends** using **React** — when architectural consistency and end-to-end ownership are needed.
+My current core stack is **Go, PostgreSQL, Docker, Kubernetes, Redis, and TypeScript**. I work mostly on backend systems, but I also use TypeScript and React when full-stack ownership or frontend/backend integration is required.
 
 ---
 
-## ⚙️ Tech Stack
+## About Me
 
-### 🔩 Backend
-- **Node.js**, **Express.js**, **TypeScript**, **JavaScript (ES6+)**
-- **Java**, **Spring Boot**, **Spring Data JPA**, **REST**, **MVC**, **Clean Architecture**
-- **PostgreSQL**, **SQL Performance Optimization**, **Prisma**, **JPA/Hibernate**
-- **Authentication**, **Authorization**, **RBAC**, **JWT**, **OAuth2**
-- **Caching** (Redis), **Rate Limiting**, **Security Headers**, **Input Validation**
+I focus on backend engineering with a practical, system-oriented mindset.
 
-### 🧱 Architecture
-- Domain-Driven Design (DDD)
-- Layered + Hexagonal Architecture
-- API-First Development
-- Async Messaging (Event-Based Design – Kafka/RabbitMQ knowledge)
-- CI/CD Workflows (GitHub Actions)
+My main areas of interest are:
 
-### 🐳 DevOps & Tools
-- **Docker**, **Docker Compose**, **Git**, **GitHub Actions**
-- **Linux CLI**, **PM2**, **Nodemon**, **Postman**, **Insomnia**
+- Clean and maintainable API design
+- PostgreSQL schema design, query optimization, and transaction boundaries
+- Authentication, authorization, RBAC, JWT, and secure backend workflows
+- Production-readiness: logging, monitoring, error handling, configuration, and deployment awareness
+- Containerized development with Docker and Docker Compose
+- Kubernetes fundamentals for running backend services in distributed environments
+- TypeScript-based backend and frontend development when needed
 
-### 🧑‍💻 Frontend
-- **React**, **Redux Toolkit**, **React Query**, **Tailwind CSS** (used only when needed)
-- Focused on component design, state management, and frontend/backend integration
+I care about building systems that are understandable, testable, observable, and easy to evolve without rewriting the whole codebase after a few months.
 
 ---
 
-## 📌 Current Focus
+## Core Tech Stack
 
-- Scaling backend systems (Java + Node) under production load
-- Mastering clean architecture and design patterns
-- Writing testable and decoupled code
-- Strengthening React skills without compromising backend focus
-- Building side projects and documenting everything
+### Backend
+
+- **Go** — REST APIs, service/repository layers, concurrency fundamentals, context, error handling
+- **PostgreSQL** — schema design, raw SQL, indexes, transactions, migrations, query performance
+- **Redis** — caching, rate limiting, session-like workflows, distributed coordination basics
+- **TypeScript / Node.js** — Express.js, API development, backend services, validation, authentication
+- **Java / Spring Boot** — secondary backend experience with REST APIs and layered architecture
+
+### Infrastructure & DevOps
+
+- **Docker**
+- **Docker Compose**
+- **Kubernetes**
+- **Linux CLI**
+- **Git / GitHub**
+- **GitHub Actions**
+- Environment-based configuration
+- Local development workflows
+- Service orchestration and containerized infrastructure
+
+### Architecture & Backend Design
+
+- Layered Architecture
+- Clean Architecture
+- API-first development
+- Domain-oriented modeling
+- Authentication and authorization flows
+- Service boundaries
+- Transaction-aware backend design
+- Background jobs and async workflow basics
+- Observability-oriented backend thinking
+
+### Frontend
+
+- **React**
+- **TypeScript**
+- **React Query**
+- **Redux Toolkit**
+- **Tailwind CSS**
+
+I use frontend technologies mainly to build practical interfaces for backend-heavy systems and to understand end-to-end product behavior.
 
 ---
 
-## ✨ Current Side Project
+## Current Focus
 
-> Currently building a **Upwork-style project(DevMatch)** with custom backend architecture, token-based auth, and a scalable API-first design using Node.js, TypeScript, PostgreSQL, and React.
+I am currently focused on becoming stronger in backend engineering through:
+
+- Building Go-based backend services with PostgreSQL
+- Writing more raw SQL and improving database design skills
+- Learning Docker, Kubernetes, and production-oriented deployment workflows
+- Improving system design and backend architecture decisions
+- Strengthening observability, monitoring, and operational thinking
+- Building portfolio projects that reflect real backend engineering problems
 
 ---
 
-## 📚 Backend Books I'm Studying
+## Current Side Project
 
-Reading through a curated list of 21 backend books covering:
+### DevMatch
+
+I am building **DevMatch**, an Upwork-style platform focused on project matching, user roles, authentication, backend workflows, and scalable API design.
+
+The project includes:
+
+- Token-based authentication
+- Role-based authorization
+- PostgreSQL-backed domain modeling
+- API-first backend architecture
+- TypeScript backend implementation
+- React-based frontend integration
+- Clean separation between domain, service, persistence, and transport layers
+
+The goal is not only to build a working product, but to practice real backend engineering decisions around data modeling, API boundaries, authentication, authorization, and maintainability.
+
+---
+
+## What I’m Studying
+
+I am actively studying backend engineering through practical projects and selected technical resources covering:
+
+- Go backend development
+- PostgreSQL and database engineering
+- Docker and Kubernetes
 - REST API design
-- Clean code and refactoring
-- System design and microservices
-- DevOps, Docker, and scalable infrastructure  
-(Ask me for the list if you're curious — it's gold.)
+- Clean architecture and refactoring
+- System design fundamentals
+- Security and authentication
+- Observability and production-readiness
 
 ---
 
-## 🤝 Let's Connect
+## Contact
 
-- 📩 **onatarslan13@gmail.com** (primary)
-- 📭 onatwhkmp@gmail.com
+- Email: **onatarslan13@gmail.com**
+- Secondary: **onatwhkmp@gmail.com**
 
 ---
 
-> "I don’t just write code. I build backend systems you won’t need to rewrite in six months."
-
+> I build backend systems with maintainability, operational clarity, and long-term evolution in mind.
