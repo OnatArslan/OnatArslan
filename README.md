@@ -121,7 +121,7 @@ I am actively studying backend engineering through practical projects and select
 ## Contact
 
 - Email: **onatarslan13@gmail.com**
-- Secondary: **onatwhkmp@gmail.com**
+- Secondary: **onat.arslan@btbilgi.com.tr**
 
 ---
 
